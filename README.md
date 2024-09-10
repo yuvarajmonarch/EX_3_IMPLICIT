@@ -1,5 +1,5 @@
-## Ex.No:3 Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
-
+## EXPERIMENT:03  Implement an application that uses Intent(Implicit) using Android Studio.
+Develop program to create a text field and a button “Navigate”. When you enter “www.gmail.com” and press navigate button it should open google page using Implicit Intents.
 
 ## AIM:
 

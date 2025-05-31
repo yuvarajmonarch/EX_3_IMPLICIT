@@ -2,7 +2,7 @@
 ## EXPERIMENT:03  Implement an application that uses Intent(Implicit) using Android Studio.
 
 ## Program
-Program to print the text “Implicitintent”.
+Program to print the text “ImplicitIntent”.
 
 Developed by: YUVARAJ B
 
